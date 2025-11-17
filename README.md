@@ -38,5 +38,5 @@ Single-cycle RISC-V CPU includes:
 ## Block Diagram:
 <p align="center">
 <img width="482" height="253" alt="image" src="https://github.com/user-attachments/assets/79f346e7-093e-43ee-af75-bf6f8191938d" />
+</p>
 
----
